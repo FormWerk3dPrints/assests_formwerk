@@ -10,8 +10,8 @@ Materiais Diversos - #8C52FF, <br>
 Adaptados - #808080
 
 ## Logo
-#ec373f -vermelho <br>
-#418b3b -verde <br>
-#fbbc3c -amarelo <br>
-#0d6aa7 -azul <br>
-#1d303a -cinza <br>
+#EC373F -vermelho <br>
+#418B3B -verde <br>
+#FBBC3C -amarelo <br>
+#0D6AA7 -azul <br>
+#1D303A -cinza <br>
