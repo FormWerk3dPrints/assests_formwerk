@@ -15,3 +15,8 @@ Adaptados - #808080
 #FBBC3C -amarelo <br>
 #0D6AA7 -azul <br>
 #1D303A -cinza <br>
+
+## Tipografia
+Geológica [Link para Download](https://fontmeme.com/fonts/geologica-font/).
+[Google Fonts](https://fonts.google.com/specimen/Geologica).
+
