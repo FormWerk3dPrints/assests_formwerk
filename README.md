@@ -19,4 +19,5 @@ Adaptados - #808080
 ## Tipografia
 Geológica [Link para Download](https://fontmeme.com/fonts/geologica-font/).
 [Google Fonts](https://fonts.google.com/specimen/Geologica).
+Dá pra mesclar com a Poppins
 
