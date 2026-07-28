@@ -7,7 +7,8 @@ Línguas - #E3423A, <br>
 Ciências da Natureza - #409337, <br>
 Ciências Humanas - #F6B22B, <br>
 Materiais Diversos - #8C52FF, <br>
-Adaptados - #808080
+Adaptados - #808080, <br>
+Sensoriais - FF8C00
 
 ## Logo
 #EC373F -vermelho <br>
